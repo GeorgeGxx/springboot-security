@@ -6,7 +6,7 @@ Endpoints & Requests:
 
 http://localhost:8080/api/login
 
-// http://localhost:8080/api/users
+*http://localhost:8080/api/users
 
 POST
 Body > KEY username & VALUE arnold | KEY password & VALUE 1234
