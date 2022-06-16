@@ -1,8 +1,8 @@
 # SpringBoot Security Project
 
-- Powered by Java 11 & JWT
+Powered by Java 11 & JWT
 
-Endpoints & Requests:
+- Endpoints & Requests:
 
 http://localhost:8080/api/login
 
